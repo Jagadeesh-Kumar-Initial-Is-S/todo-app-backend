@@ -30,3 +30,9 @@ Back-end Deployed URL's link is equal to https://todo-app-backend-black.vercel.a
 
 <hr/>
 
+# Screenshot
+
+![image](https://user-images.githubusercontent.com/115778774/215329898-4f8b48ce-6fa1-4539-bc9d-2a9ea7097a80.png)
+
+<hr/>
+
