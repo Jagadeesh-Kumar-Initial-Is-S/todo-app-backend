@@ -10,6 +10,10 @@ const routes = require("./routes/TodoRoute");
 const app = express();
 const PORT = process.env.PORT | 5000;
 
+app.get("/",(req,res)=>{
+    res.send( {message : "Submitted and coded by Jagadeesh Kumar . S, you may send mail to my email address which is jagadeesh_2k17@proton.me, you may contribute some money to my Indian Unified Payment Interface (UPI) which is jagadeesh-kumar@ybl ."});
+});
+
 app.use(express.json());
 app.use(cors());
 
