@@ -36,3 +36,8 @@ Back-end Deployed URL's link is equal to https://todo-app-backend-black.vercel.a
 
 <hr/>
 
+# Documentation on Postman
+
+Documentation on Postman URL's link is equal to https://documenter.getpostman.com/view/25437042/2s935hR7Ej .
+
+<hr/>
